@@ -47,7 +47,7 @@ add_to_cart_page.py	Sepete ekleme işlemlerini içeren sınıf
 
 test_add_to_cart.py	Test senaryosunu içeren dosya
 
-🌍 **Eğer projeye katkıda bulunmak istersen: <3**
+🌍 **Eğer projeye katkıda bulunmak istersen<3**
 
 ->Projeyi fork'la
 
