@@ -40,7 +40,7 @@ class TestAddToCart(unittest.TestCase):
         # Sepetime git
         self.page.go_to_cart()
 
-        # Sepeti kontrol et
+
         self.page.verify_cart()
 
         print("\n*** Test Başarıyla Tamamlandı ***\n")
